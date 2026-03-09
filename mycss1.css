@@ -29,6 +29,12 @@ body {
         .footerbold {
             font-weight: bold;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: small;
+        }
+
+        .footerbold2 {
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
 
         a:link {
